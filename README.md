@@ -1,4 +1,4 @@
-1º git clone https://github.com/Paiva07/ServerFilms.git
+<p>1º git clone https://github.com/Paiva07/ServerFilms.git</p>
 2º npm install
 3º json-server --watch db.json - É necessário rodar em localHost 3000
 4º npm start
