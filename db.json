@@ -1,0 +1,29 @@
+{
+  "films": [
+    {
+      "title": "O clube da Luta",
+      "genre": "Ação",
+      "id": 1
+    },
+    {
+      "title": "Star Wars: Episódio V - O Império Contra-Ataca",
+      "genre": "Ficção Cientifica",
+      "id": 2
+    },
+    {
+      "title": "O Rei Leão 2",
+      "genre": "Animação",
+      "id": 3
+    },
+    {
+      "title": "Lion ",
+      "genre": "Drama",
+      "id": 4
+    }
+  ],
+  "user": {
+    "name": "Guilherme Paiva",
+    "username": "teste123@hotmail.com",
+    "password": "Teste123$"
+  }
+}

@@ -1,0 +1,72 @@
+.container {
+  margin: 10rem 5rem 0 5rem;
+  display: grid;
+  grid-template-columns: 2fr 2fr 2fr;
+  gap: 1rem;
+}
+.container p {
+  font-size: 18px;
+  padding: 10px 0;
+  color: white
+}
+
+.icon {
+  display: flex;
+  color: black
+}
+.trash {
+  cursor: pointer;
+}
+
+.containerFilm {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  border: none;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color:#2f4f4d;;
+}
+.containerInput {
+  border: 1px solid black;
+  width: 16%;
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 10rem auto;
+  background-color: #2f4f4f;
+  z-index: 100;
+  
+}
+
+.containerInput p{
+color: #daa520;
+padding-bottom: 1rem;
+}
+.input{
+  margin-bottom: 10px;
+  padding: 0.5rem;
+  border: 1px solid #daa520 ;
+  border-radius: 5px;
+
+}
+.button{
+  display: block;
+  padding: 8px;
+  margin-top: 1rem;
+
+  color: #daa520;
+  border: 1px solid #daa520;
+  background-color: white;
+  border-radius: 5px;
+}
+
+.button1{
+  display: block;
+  padding: 8px;
+  margin-top: 5rem;
+margin-left: 5rem;
+  color: #daa520;
+  border: 1px solid #daa520;
+  background-color: white;
+  border-radius: 5px;
+}

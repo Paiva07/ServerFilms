@@ -1,0 +1,29 @@
+.containerInput {
+  border: 1px solid black;
+  width: 16%;
+  padding: 1rem;
+  border-radius: 10px;
+  margin: 10rem auto;
+  background-color: #2f4f4f;
+  z-index: 100;
+}
+
+.containerInput p{
+color: #daa520;
+padding-bottom: 1rem;
+}
+.input{
+  margin-bottom: 10px;
+  padding: 0.5rem;
+  border: 1px solid #daa520 ;
+  border-radius: 5px;
+}
+.button{
+  display: block;
+  padding: 8px;
+  margin-top: 1rem;
+  color: #daa520;
+  border: 1px solid #daa520;
+  background-color: white;
+  border-radius: 5px;
+}

@@ -1,0 +1,16 @@
+.container label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 2rem;
+  font-size: 20px;
+  color: #daa520;
+}
+
+.container input {
+  font-size: 20px;
+  padding: 0.5rem;
+  margin-top: 1rem;
+  border: none;
+  border: 1px solid var(--black-secondary);
+  border-radius: 1rem;
+}
